@@ -372,29 +372,6 @@ Create a folder inside the repository:
 /screenshots
 ```
 
-Example structure:
-
-```
-Friendzon
- ├── README.md
- └── screenshots
-      ├── login.png
-      ├── dashboard.png
-      ├── dashboard-cards.png
-      ├── customer.png
-      ├── customer-form.png
-      ├── agent.png
-      ├── loan.png
-      ├── loan-emi.png
-      ├── overdue-emi.png
-      ├── partner.png
-      ├── partner-deal.png
-      ├── investment.png
-      ├── expense.png
-      ├── reports.png
-      └── profit-loss.png
-```
-
 Recommended **15 screenshot names**:
 
 ```
