@@ -364,15 +364,15 @@ The system includes multiple infrastructure-level capabilities.
 
 ---
 
-# 📂 Screenshot Folder Structure
+# 📂 Folder Structure
 
-Create a folder inside the repository:
+A folder inside the repository:
 
 ```
 /screenshots
 ```
 
-Recommended **15 screenshot names**:
+**15 screenshot **:
 
 ```
 login.png
